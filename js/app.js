@@ -4,7 +4,3 @@ console.log('HELLOW BOOTCAMP');
 console.log('HELLOW BOOTCAMP');
 console.log('HELLOW BOOTCAMP');
 console.log('HELLOW BOOTCAMP');
-console.log('HELLOW BOOTCAMP');
-console.log('HELLOW BOOTCAMP');
-console.log('HELLOW BOOTCAMP');
-console.log('HELLOW BOOTCAMP');
